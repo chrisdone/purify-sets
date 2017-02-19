@@ -84,3 +84,5 @@ extra-deps:
     commit: d327abf9b9c0bc9e1bb524c8bdeb8b1ff236e8c1
   - repo: https://github.com/purescript-contrib/purescript-canvas.git
     commit: v2.0.0
+  - repo: https://github.com/purescript-contrib/purescript-js-timers.git
+    commit: v2.0.0
