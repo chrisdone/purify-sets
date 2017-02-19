@@ -1,0 +1,74 @@
+output-file: index.js
+extra-deps:
+  - repo: https://github.com/purescript/purescript-console.git
+    commit: 63d347fa006847170de9c549392601971bd2cc7c
+  - repo: https://github.com/purescript/purescript-eff.git
+    commit: d6c32f884c434dc2af94a2e9143fac0a0be97281
+  - repo: https://github.com/purescript/purescript-prelude.git
+    commit: 4b9fdde22cc521b5e132ec69ac95b814aca63356
+  - repo: https://github.com/purescript/purescript-console.git
+    commit: 63d347fa006847170de9c549392601971bd2cc7c
+  - repo: https://github.com/purescript/purescript-eff.git
+    commit: d6c32f884c434dc2af94a2e9143fac0a0be97281
+  - repo: https://github.com/purescript/purescript-prelude.git
+    commit: 4b9fdde22cc521b5e132ec69ac95b814aca63356
+  - repo: https://github.com/purescript-contrib/purescript-dom.git
+    commit: 7b6bd8a397e47c9de32e3eca33792736735ee903
+  - repo: https://github.com/purescript-contrib/purescript-react-dom.git
+    commit: f5fbc868317f7dd4014ba70a9e93ccbd548d6aa2
+  - repo: https://github.com/purescript-contrib/purescript-react.git
+    commit: 4790b9759d4c57da607d9b2f241ea1739784412d
+  - repo: https://github.com/purescript/purescript-unsafe-coerce.git
+    commit: 999756653bf1cb42cc57d6fa3bcdd2086c7b99a1
+  - repo: https://github.com/purescript/purescript-foldable-traversable.git
+    commit: 7a9f9a68da56c554e51ff71ef85921b48e58bdae
+  - repo: https://github.com/purescript-contrib/purescript-nullable.git
+    commit: eb7a4894c6dd645a4620c5e5decc1064922ff364
+  - repo: https://github.com/purescript/purescript-maybe.git
+    commit: e4adaa397a34b83220640c00744884012a354bea
+  - repo: https://github.com/purescript/purescript-monoid.git
+    commit: fd7e46827223decb811216d6cb53d83d57e57a2d
+  - repo: https://github.com/purescript/purescript-invariant.git
+    commit: f0ae0c389aabb6f377539438645caa2e193e2f09
+  - repo: https://github.com/purescript/purescript-control.git
+    commit: d791ae81db25b3b3260185015563c7ab7b23c07d
+  - repo: https://github.com/purescript/purescript-tuples.git
+    commit: 0225df2e490fac5c7a9505f2c4320ac6c259f393
+  - repo: https://github.com/purescript/purescript-bifunctors.git
+    commit: f1d87578e7eb060d6eb8d59939f5bca08af3642d
+  - repo: https://github.com/purescript/purescript-either.git
+    commit: 7211ffbfa5b412f86fe22906c1cc425655967b1b
+  - repo: https://github.com/purescript-contrib/purescript-generics.git
+    commit: c463ba3f2930a273c061463cd1395e2d634df37b
+  - repo: https://github.com/purescript/purescript-functions.git
+    commit: e7fbc15668df854df5bee0e4b71200df69fdb764
+  - repo: https://github.com/purescript/purescript-foreign.git
+    commit: e66594849c08d259b10e295db63a931028728ebb
+  - repo: https://github.com/purescript/purescript-integers.git
+    commit: 0a4912442361f7b313c6b42cba3057970d3c5e8b
+  - repo: https://github.com/purescript/purescript-math.git
+    commit: 1c24077759a0d96b6c1d00e304ce998b5052a7b4
+  - repo: https://github.com/purescript/purescript-partial.git
+    commit: 5f29f44744dfa377be1a3032a2ffb03953bcda5f
+  - repo: https://github.com/purescript/purescript-strings.git
+    commit: b6997465b21f7971d8bf13ea05049ca12b6b9312
+  - repo: https://github.com/purescript/purescript-arrays.git
+    commit: 90b1c3d126961bfaf60f29068aedaf67f5cf18e2
+  - repo: https://github.com/purescript/purescript-st.git
+    commit: 9a8f00da1e1eb59679b00b73e2b7b8c63a275967
+  - repo: https://github.com/purescript/purescript-unfoldable.git
+    commit: 6cd067943bea532b7df07ff1014df2493c355620
+  - repo: https://github.com/hdgarrood/purescript-eff-functions.git
+    commit: 6d51d617344c51042e6cf77831b37f2094449986
+  - repo: https://github.com/purescript/purescript-proxy.git
+    commit: c0b986b1cc9b87652a0274fd193f8e328070e200
+  - repo: https://github.com/purescript/purescript-lists.git
+    commit: e68c4a1b2974efb7e4439c481b8f7882a1a4d43a
+  - repo: https://github.com/purescript/purescript-maps.git
+    commit: 77f5362a964e82755bb0857599e4b704cc958abb
+  - repo: https://github.com/purescript/purescript-globals.git
+    commit: 607424aa1e89f65a9145a7ffde2b8405ae38513f
+  - repo: https://github.com/chrisdone/purescript-argonaut-generic-codecs.git
+    commit: 78836df42e334bcd71d228e2f85085b7300c9f5c
+  - repo: https://github.com/purescript-contrib/purescript-argonaut-core.git
+    commit: 576563b5fbf989d725b6f3128465c1ca45ecc0aa
