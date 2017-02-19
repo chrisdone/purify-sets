@@ -2,7 +2,7 @@ resolver: lts-6.18
 packages:
 - location:
     git: https://github.com/purescript/purescript.git
-    commit: 182409ff2cd10fee2958d040f134dc312bcb15fb
+    commit: 2cad87835dbf8c9dba2ad810b32a97579ec52af6
 - location:
     git: https://github.com/chrisdone/purify.git
     commit: a86f2cc694cc8b9b47eeaf5caf83c9706a48b3eb

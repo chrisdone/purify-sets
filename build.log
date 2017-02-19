@@ -1,0 +1,305 @@
+Compiling Type.Proxy
+Compiling Unsafe.Coerce
+Compiling Data.Int.Bits
+Compiling Global.Unsafe
+Compiling Main
+Compiling Data.String.Unsafe
+Compiling Global
+Compiling Data.Show
+Compiling Partial
+Compiling Math
+Compiling Data.NaturalTransformation
+Compiling Data.Char
+Compiling Data.Boolean
+Compiling DOM.XHR.Types
+Compiling DOM
+Compiling Control.Semigroupoid
+Compiling DOM.File.Types
+Compiling Partial.Unsafe
+Compiling DOM.HTML.Event.DragEvent.DataTransfer
+Compiling Data.Void
+Compiling Data.Unit
+Compiling Control.Category
+Compiling Data.Function.Uncurried
+Compiling Control.Lazy
+Compiling Data.HeytingAlgebra
+Compiling Data.Semigroup
+Compiling Data.Eq
+Compiling Data.Semiring
+Compiling Data.Bifunctor
+Compiling Data.Function
+Compiling Control.Biapply
+Compiling Data.Monoid
+Compiling Data.Ring
+Compiling Data.Functor
+Compiling Data.Ordering
+Compiling Data.BooleanAlgebra
+Compiling Data.CommutativeRing
+Compiling Data.Ord.Unsafe
+Compiling Data.EuclideanRing
+Compiling Control.Alt
+Compiling Control.Apply
+Compiling Data.Functor.Invariant
+Compiling Control.Extend
+Compiling Data.Ord
+Compiling Control.Plus
+Compiling Control.Biapplicative
+Compiling Data.Monoid.Endo
+Compiling Data.Bifunctor.Wrap
+Compiling Data.Bifunctor.Flip
+Compiling Data.Bifunctor.Product
+Compiling Data.Field
+Compiling Control.Comonad
+Compiling Control.Applicative
+Compiling Data.Bifunctor.Clown
+Compiling Data.Bifunctor.Joker
+Compiling Data.Bifunctor.Join
+Compiling Control.Bind
+Compiling Control.Alternative
+Compiling Data.Bounded
+Compiling Control.Monad
+Compiling Data.Monoid.Disj
+Compiling Data.Monoid.Dual
+Compiling Data.Monoid.Conj
+Compiling Data.Monoid.Multiplicative
+Compiling Control.Monad.Eff
+Compiling Prelude
+Compiling Control.MonadZero
+Compiling Data.Monoid.Additive
+Compiling Data.Maybe
+Compiling Control.Monad.ST
+Compiling Control.Monad.Eff.Console
+Compiling Data.Function.Eff
+Compiling Control.Monad.Eff.Class
+Compiling Control.Monad.Eff.Unsafe
+Compiling Control.MonadPlus
+Compiling DOM.HTML.HTMLMediaElement.CanPlayType
+Compiling React
+Compiling Data.Lazy
+Compiling Data.Newtype
+Compiling DOM.HTML.SelectionMode
+Compiling Data.Bifoldable
+Compiling Data.Maybe.First
+Compiling Data.Maybe.Last
+Compiling Data.Array.ST
+Compiling Data.String
+Compiling Data.StrMap.ST
+Compiling Data.Int
+Compiling Data.Nullable
+Compiling Data.Bitraversable
+Compiling React.DOM.Props
+Compiling DOM.File.FileList
+Compiling Data.Foldable
+Compiling React.DOM
+Compiling Data.Traversable
+Compiling Data.Either
+Compiling Data.Tuple
+Compiling React.DOM.SVG
+Compiling React.DOM.SVG.Dynamic
+Compiling React.DOM.Dynamic
+Compiling Data.String.Regex
+Compiling Data.Either.Nested
+Compiling Data.Foreign
+Compiling Control.Monad.Eff.Exception
+Compiling Control.Monad.Eff.Exception.Unsafe
+Compiling Data.Unfoldable
+Compiling DOM.XHR.FormData
+Compiling Data.Tuple.Nested
+Compiling Data.Array
+Compiling Data.List.Lazy
+Compiling Data.Enum
+Compiling Data.Foreign.NullOrUndefined
+Compiling Data.Foreign.Undefined
+Compiling Data.Foreign.Index
+Compiling Data.Foreign.Keys
+Compiling Data.Foreign.Null
+Compiling Data.Array.Partial
+Compiling Data.Foreign.Class
+Compiling Data.Generic
+Compiling DOM.Event.EventPhase
+Compiling DOM.Node.NodeType
+Compiling DOM.HTML.HTMLTrackElement.ReadyState
+Compiling DOM.HTML.HTMLMediaElement.ReadyState
+Compiling DOM.HTML.HTMLMediaElement.NetworkState
+Compiling DOM.Event.Types
+Compiling DOM.HTML.Event.Types
+Compiling DOM.Event.WheelEvent
+Compiling DOM.Node.Types
+Compiling DOM.Event.MouseEvent
+Compiling DOM.Event.KeyboardEvent
+Compiling DOM.HTML.Event.EventTypes
+Compiling DOM.CSS.Event.Types
+Compiling DOM.Event.FocusEvent
+Compiling DOM.Event.EventTarget
+Compiling DOM.Event.CompositionEvent
+Compiling DOM.Websocket.Event.Types
+Compiling DOM.HTML.Event.ErrorEvent
+Compiling DOM.Node.ParentNode
+Compiling DOM.Node.ChildNode
+Compiling DOM.Node.DocumentType
+Compiling DOM.Node.HTMLCollection
+Compiling DOM.Event.Event
+Compiling DOM.Node.NonDocumentTypeChildNode
+Compiling ReactDOM
+Compiling DOM.Node.Element
+Compiling DOM.HTML.Types
+Compiling DOM.Node.NonElementParentNode
+Compiling DOM.Node.Document
+Compiling DOM.Node.Node
+Compiling DOM.Node.NodeList
+Compiling Data.List.ZipList
+Compiling DOM.Websocket.Event.CloseEvent
+Compiling Data.Time.Duration
+Compiling Data.MediaType
+Compiling Data.Argonaut.Generic.Util
+Compiling Data.List
+Compiling Data.Date.Component
+Compiling Data.Time.Component
+Compiling Data.MediaType.Common
+Compiling DOM.File.Blob
+Compiling DOM.File.File
+Compiling DOM.HTML.HTMLMapElement
+Compiling DOM.HTML.HTMLOListElement
+Compiling DOM.HTML.HTMLDataElement
+Compiling DOM.HTML.HTMLAreaElement
+Compiling DOM.HTML.HTMLTableRowElement
+Compiling DOM.HTML.HTMLTextAreaElement
+Compiling DOM.HTML.HTMLLegendElement
+Compiling DOM.HTML.HTMLOutputElement
+Compiling DOM.HTML.HTMLCanvasElement
+Compiling DOM.HTML.Window
+Compiling DOM.HTML.HTMLModElement
+Compiling DOM.HTML.HTMLKeygenElement
+Compiling DOM.HTML.HTMLLinkElement
+Compiling DOM.HTML.HTMLMetaElement
+Compiling DOM.HTML.HTMLQuoteElement
+Compiling DOM.HTML.HTMLFormElement
+Compiling DOM.HTML.HTMLSelectElement
+Compiling DOM.HTML.HTMLBaseElement
+Compiling DOM.HTML.HTMLTableSectionElement
+Compiling DOM.HTML.HTMLScriptElement
+Compiling DOM.HTML.Navigator
+Compiling DOM.HTML.HTMLIFrameElement
+Compiling DOM.HTML.HTMLTitleElement
+Compiling DOM.HTML.HTMLTableCellElement
+Compiling DOM.HTML.HTMLButtonElement
+Compiling DOM.HTML.Location
+Compiling DOM.HTML.HTMLAnchorElement
+Compiling DOM.HTML.HTMLMeterElement
+Compiling DOM.HTML
+Compiling DOM.HTML.HTMLFieldSetElement
+Compiling DOM.HTML.HTMLTrackElement
+Compiling DOM.HTML.HTMLTableColElement
+Compiling DOM.HTML.HTMLParamElement
+Compiling DOM.HTML.HTMLLIElement
+Compiling DOM.HTML.HTMLVideoElement
+Compiling DOM.HTML.HTMLTimeElement
+Compiling DOM.HTML.HTMLSourceElement
+Compiling DOM.HTML.HTMLOptGroupElement
+Compiling DOM.HTML.HTMLObjectElement
+Compiling DOM.HTML.HTMLEmbedElement
+Compiling DOM.HTML.HTMLTableHeaderCellElement
+Compiling DOM.HTML.HTMLTemplateElement
+Compiling DOM.HTML.HTMLTableElement
+Compiling DOM.HTML.HTMLOptionElement
+Compiling DOM.HTML.HTMLStyleElement
+Compiling DOM.HTML.HTMLDataListElement
+Compiling DOM.HTML.HTMLImageElement
+Compiling DOM.HTML.HTMLLabelElement
+Compiling DOM.HTML.HTMLProgressElement
+Compiling DOM.HTML.HTMLElement
+Compiling DOM.HTML.Document
+Compiling Data.Time
+Compiling Data.Date
+Compiling Data.Map
+Compiling Data.List.Partial
+Compiling Data.StrMap
+Compiling Data.DateTime
+Compiling Data.DateTime.Locale
+Compiling Data.DateTime.Instant
+Compiling Data.Argonaut.Core
+Compiling Data.StrMap.Unsafe
+Compiling Data.StrMap.ST.Unsafe
+Compiling Data.JSDate
+Compiling Data.Argonaut.Printer
+Compiling Data.Argonaut.Generic.Options
+Compiling Data.Argonaut.Parser
+Compiling DOM.HTML.HTMLInputElement
+Compiling DOM.HTML.HTMLMediaElement
+Compiling Data.Argonaut.Generic.Decode
+Compiling Data.Argonaut.Generic.Encode
+Compiling Data.Argonaut.Generic.Argonaut
+Compiling Data.Argonaut.Generic.Aeson
+Cloning purescript-media-types ...
+Cloning purescript-enums ...
+Cloning purescript-newtype ...
+Cloning purescript-datetime ...
+Cloning purescript-exceptions ...
+Cloning purescript-js-date ...
+Cloning purescript-lazy ...
+Cloning purescript-console ...
+Checking out purescript-console (63d347f) ...
+Cloning purescript-eff ...
+Checking out purescript-eff (d6c32f8) ...
+Cloning purescript-prelude ...
+Checking out purescript-prelude (4b9fdde) ...
+Cloning purescript-dom ...
+Checking out purescript-dom (7b6bd8a) ...
+Cloning purescript-react-dom ...
+Checking out purescript-react-dom (f5fbc86) ...
+Cloning purescript-react ...
+Checking out purescript-react (4790b97) ...
+Cloning purescript-unsafe-coerce ...
+Checking out purescript-unsafe-coerce (9997566) ...
+Cloning purescript-foldable-traversable ...
+Checking out purescript-foldable-traversable (7a9f9a6) ...
+Cloning purescript-nullable ...
+Checking out purescript-nullable (eb7a489) ...
+Cloning purescript-maybe ...
+Checking out purescript-maybe (e4adaa3) ...
+Cloning purescript-monoid ...
+Checking out purescript-monoid (fd7e468) ...
+Cloning purescript-invariant ...
+Checking out purescript-invariant (f0ae0c3) ...
+Cloning purescript-control ...
+Checking out purescript-control (d791ae8) ...
+Cloning purescript-tuples ...
+Checking out purescript-tuples (0225df2) ...
+Cloning purescript-bifunctors ...
+Checking out purescript-bifunctors (f1d8757) ...
+Cloning purescript-either ...
+Checking out purescript-either (7211ffb) ...
+Cloning purescript-generics ...
+Checking out purescript-generics (c463ba3) ...
+Cloning purescript-functions ...
+Checking out purescript-functions (e7fbc15) ...
+Cloning purescript-foreign ...
+Checking out purescript-foreign (e665948) ...
+Cloning purescript-integers ...
+Checking out purescript-integers (0a49124) ...
+Cloning purescript-math ...
+Cloning purescript-partial ...
+Checking out purescript-partial (5f29f44) ...
+Cloning purescript-strings ...
+Checking out purescript-strings (b699746) ...
+Cloning purescript-arrays ...
+Checking out purescript-arrays (90b1c3d) ...
+Cloning purescript-st ...
+Checking out purescript-st (9a8f00d) ...
+Cloning purescript-unfoldable ...
+Checking out purescript-unfoldable (6cd0679) ...
+Cloning purescript-eff-functions ...
+Checking out purescript-eff-functions (6d51d61) ...
+Cloning purescript-proxy ...
+Cloning purescript-lists ...
+Checking out purescript-lists (e68c4a1) ...
+Cloning purescript-maps ...
+Checking out purescript-maps (77f5362) ...
+Cloning purescript-globals ...
+Checking out purescript-globals (607424a) ...
+Cloning purescript-argonaut-generic-codecs ...
+Cloning purescript-argonaut-core ...
+Checking out purescript-argonaut-core (576563b) ...
+Compiling 232 modules ...
+Bundling ...
+Output bundled to index.js

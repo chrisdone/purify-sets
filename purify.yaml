@@ -1,11 +1,19 @@
 output-file: index.js
 extra-deps:
-  - repo: https://github.com/purescript/purescript-console.git
-    commit: 63d347fa006847170de9c549392601971bd2cc7c
-  - repo: https://github.com/purescript/purescript-eff.git
-    commit: d6c32f884c434dc2af94a2e9143fac0a0be97281
-  - repo: https://github.com/purescript/purescript-prelude.git
-    commit: 4b9fdde22cc521b5e132ec69ac95b814aca63356
+  - repo: https://github.com/purescript-contrib/purescript-media-types.git
+    commit: 7ab6a608f628a1bebb2b5f031ce9b95709c7c6cb
+  - repo: https://github.com/purescript/purescript-enums.git
+    commit: 6f0472264b61409355f58007e14cf7187f6632ec
+  - repo: https://github.com/purescript/purescript-newtype.git
+    commit: 6b4dfe515fcfe5efdab41a1d97cc2350ff0418ac
+  - repo: https://github.com/purescript/purescript-datetime.git
+    commit: 5b007736c1fc20c433030ff5f44b3b5ae2b7018b
+  - repo: https://github.com/purescript/purescript-exceptions.git
+    commit: f75dbad8ae7bb2c089db1c2c017cf57e0855d52c
+  - repo: https://github.com/purescript/purescript-js-date.git
+    commit: 37b55a705127cd99a8e94ac7401057354873ff36
+  - repo: https://github.com/purescript/purescript-lazy.git
+    commit: 12e8fb2de6b8a0754805b3ab813469d4757e6d5d
   - repo: https://github.com/purescript/purescript-console.git
     commit: 63d347fa006847170de9c549392601971bd2cc7c
   - repo: https://github.com/purescript/purescript-eff.git
