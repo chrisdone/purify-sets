@@ -17,7 +17,7 @@ extra-deps:
   - repo: https://github.com/purescript/purescript-console.git
     commit: 63d347fa006847170de9c549392601971bd2cc7c
   - repo: https://github.com/purescript/purescript-eff.git
-    commit: d6c32f884c434dc2af94a2e9143fac0a0be97281
+    commit: f72d54dc58be37f8015bbd962ede2b16ee2df44b
   - repo: https://github.com/purescript/purescript-prelude.git
     commit: 4b9fdde22cc521b5e132ec69ac95b814aca63356
   - repo: https://github.com/purescript-contrib/purescript-dom.git
@@ -85,4 +85,6 @@ extra-deps:
   - repo: https://github.com/purescript-contrib/purescript-canvas.git
     commit: v2.0.0
   - repo: https://github.com/purescript-contrib/purescript-js-timers.git
+    commit: v2.0.0
+  - repo: https://github.com/purescript/purescript-refs.git
     commit: v2.0.0
