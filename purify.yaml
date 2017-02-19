@@ -80,3 +80,7 @@ extra-deps:
     commit: 78836df42e334bcd71d228e2f85085b7300c9f5c
   - repo: https://github.com/purescript-contrib/purescript-argonaut-core.git
     commit: 576563b5fbf989d725b6f3128465c1ca45ecc0aa
+  - repo: https://github.com/purescript-contrib/purescript-arraybuffer-types.git
+    commit: d327abf9b9c0bc9e1bb524c8bdeb8b1ff236e8c1
+  - repo: https://github.com/purescript-contrib/purescript-canvas.git
+    commit: v2.0.0
