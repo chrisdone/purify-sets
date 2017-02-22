@@ -88,3 +88,11 @@ extra-deps:
     commit: v2.0.0
   - repo: https://github.com/purescript/purescript-refs.git
     commit: v2.0.0
+  - repo: https://github.com/purescript/purescript-transformers.git
+    commit: v2.2.0
+  - repo: https://github.com/purescript/purescript-tailrec.git
+    commit: v2.0.2
+  - repo: https://github.com/purescript/purescript-identity.git
+    commit: v2.0.0
+  - repo: https://github.com/purescript/purescript-distributive.git
+    commit: v2.0.0
